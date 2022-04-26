@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/neurologist/Perfect-Boiled-Eggs">
-    <img src="images/egg.png" alt="Logo" width="80" height="80">
+    <img src="images/egg.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Perfect Boiled Eggs</h3>
