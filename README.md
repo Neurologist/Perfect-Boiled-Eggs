@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@VFXBrain](https://twitter.com/vfxbrain) - brainsgg@gmail.com
+Product by Nicolae I. - [@VFXBrain](https://twitter.com/vfxbrain) - brainsgg@gmail.com
 
 Project Link: [https://github.com/neurologist/Perfect-Boiled-Eggs](https://github.com/neurologist/Perfect-Boiled-Eggs)
 
