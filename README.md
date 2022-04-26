@@ -1,10 +1,10 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out this fun project. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+*** Thanks again! Now go make your PERFECT BOILED EGG! :D
 -->
 
 
@@ -29,14 +29,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/neurologist/Perfect-Boiled-Eggs">
+    <img src="images/egg.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Perfect Boiled Eggs</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is C++ code to program a robotic egg boiler to produce a perfect egg in under 4 minutes!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -157,7 +157,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://khymos.org/2009/04/09/towards-the-perfect-soft-boiled-egg/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,9 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -210,9 +208,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@VFXBrain](https://twitter.com/vfxbrain) - brainsgg@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/neurologist/Perfect-Boiled-Eggs](https://github.com/neurologist/Perfect-Boiled-Eggs)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
